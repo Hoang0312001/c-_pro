@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "wV7Hispk3vPYB8LPR+wrAfcJkKYAB1i7bzu3z76txHI=",
+  "Source": "AspCore",
+  "BasePath": "_content/AspCore",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AspCore\\wwwroot",
+      "Source": "AspCore",
+      "ContentRoot": "E:\\VS_C#\\aspcore\\wwwroot\\",
+      "BasePath": "_content/AspCore",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\VS_C#\\aspcore\\wwwroot\\demo.txt",
+      "SourceId": "AspCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\VS_C#\\aspcore\\wwwroot\\",
+      "BasePath": "_content/AspCore",
+      "RelativePath": "demo.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\demo.txt"
+    },
+    {
+      "Identity": "E:\\VS_C#\\aspcore\\wwwroot\\js\\jquery.min.js",
+      "SourceId": "AspCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\VS_C#\\aspcore\\wwwroot\\",
+      "BasePath": "_content/AspCore",
+      "RelativePath": "js/jquery.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\jquery.min.js"
+    },
+    {
+      "Identity": "E:\\VS_C#\\aspcore\\wwwroot\\js\\popper.min.js",
+      "SourceId": "AspCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\VS_C#\\aspcore\\wwwroot\\",
+      "BasePath": "_content/AspCore",
+      "RelativePath": "js/popper.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\popper.min.js"
+    },
+    {
+      "Identity": "E:\\VS_C#\\aspcore\\wwwroot\\upload\\number.txt",
+      "SourceId": "AspCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\VS_C#\\aspcore\\wwwroot\\",
+      "BasePath": "_content/AspCore",
+      "RelativePath": "upload/number.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\upload\\number.txt"
+    }
+  ]
+}

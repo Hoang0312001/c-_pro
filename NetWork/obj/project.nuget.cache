@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fjdVdOv1M6PRYFL45zic8DJwLFkZLSJefU4/xwRKMvYxwzIV80COendH5SBYRzAl4CsyP0L2k/wyiDyy8V7TLQ==",
+  "success": true,
+  "projectFilePath": "E:\\VS_C#\\NetWork\\NetWork.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TT\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

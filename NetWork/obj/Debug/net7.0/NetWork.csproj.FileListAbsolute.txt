@@ -1,0 +1,17 @@
+E:\VS_C#\NetWork\bin\Debug\net7.0\NetWork.exe
+E:\VS_C#\NetWork\bin\Debug\net7.0\NetWork.deps.json
+E:\VS_C#\NetWork\bin\Debug\net7.0\NetWork.runtimeconfig.json
+E:\VS_C#\NetWork\bin\Debug\net7.0\NetWork.dll
+E:\VS_C#\NetWork\bin\Debug\net7.0\NetWork.pdb
+E:\VS_C#\NetWork\obj\Debug\net7.0\NetWork.csproj.AssemblyReference.cache
+E:\VS_C#\NetWork\obj\Debug\net7.0\NetWork.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS_C#\NetWork\obj\Debug\net7.0\NetWork.AssemblyInfoInputs.cache
+E:\VS_C#\NetWork\obj\Debug\net7.0\NetWork.AssemblyInfo.cs
+E:\VS_C#\NetWork\obj\Debug\net7.0\NetWork.csproj.CoreCompileInputs.cache
+E:\VS_C#\NetWork\obj\Debug\net7.0\NetWork.dll
+E:\VS_C#\NetWork\obj\Debug\net7.0\refint\NetWork.dll
+E:\VS_C#\NetWork\obj\Debug\net7.0\NetWork.pdb
+E:\VS_C#\NetWork\obj\Debug\net7.0\NetWork.genruntimeconfig.cache
+E:\VS_C#\NetWork\obj\Debug\net7.0\ref\NetWork.dll
+E:\VS_C#\NetWork\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\VS_C#\NetWork\obj\Debug\net7.0\NetWork.csproj.CopyComplete
